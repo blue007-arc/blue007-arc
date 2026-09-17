@@ -98,6 +98,19 @@ Instead of toy LLM wrappers, I focus on building **production-grade engineering 
       <p align="center"><a href="https://github.com/blue007-arc/deep-researcher-agent-mcp"><b>Explore Repository ➔</b></a></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">🎙️ <a href="https://github.com/blue007-arc/voxcode-voice-coding-agent">voxcode-voice-coding-agent</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Voice-Deepgram_Nova--3-13EF95?style=flat-square" />
+        <img src="https://img.shields.io/badge/IDE-Cursor_SDK-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/UI-Vite_%2B_React_19-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Language-TypeScript_5-3178C6?style=flat-square" />
+      </p>
+      <p align="center">Interactive real-time voice AI coding workspace. Speak naturally to inspect codebases, ask architecture and dependency questions, stream sub-second audio responses, and direct the <b>Cursor SDK</b> to perform surgical, verified file edits.</p>
+      <p align="center"><a href="https://github.com/blue007-arc/voxcode-voice-coding-agent"><b>Explore Repository ➔</b></a></p>
+    </td>
+  </tr>
 </table>
 
 ---
