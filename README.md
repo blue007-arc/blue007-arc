@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # ⚡ Sakshi Pandey ⚡
@@ -76,14 +77,24 @@ Instead of toy LLM wrappers, I focus on building **production-grade engineering 
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td width="50%">
+      <h3 align="center">📈 <a href="https://github.com/blue007-arc/ai-hedgefund">ai-hedgefund</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Language-TypeScript%205-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Frontend-React%2019-61DAFB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Deploy-Docker-2496ED?style=flat-square" />
+      </p>
+      <p>Autonomous quantitative hedge fund workflow running parallel fundamental, technical, risk, and portfolio management agents with real-time financial market data.</p>
+      <p align="center"><a href="https://github.com/blue007-arc/ai-hedgefund"><b>Explore Repository ➔</b></a></p>
+    </td>
+    <td width="50%">
       <h3 align="center">🔍 <a href="https://github.com/blue007-arc/deep-researcher-agent-mcp">deep-researcher-agent-mcp</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Framework-Agno-blueviolet?style=flat-square" />
-        <img src="https://img.shields.io/badge/Protocol-Model_Context_Protocol_(MCP)-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Protocol-MCP-green?style=flat-square" />
         <img src="https://img.shields.io/badge/Scraping-Scrapegraph_AI-yellow?style=flat-square" />
       </p>
-      <p align="center">Autonomous multi-stage deep research workflow agent (Searcher ➔ Analyst ➔ Writer) with live Streamlit UI and a native <b>MCP Server</b> ready to plug directly into Claude Desktop and Cursor.</p>
+      <p>Multi-stage research pipeline (Searcher ➔ Analyst ➔ Writer) with Streamlit UI and a native <b>Model Context Protocol (MCP)</b> server for Claude Desktop and Cursor.</p>
       <p align="center"><a href="https://github.com/blue007-arc/deep-researcher-agent-mcp"><b>Explore Repository ➔</b></a></p>
     </td>
   </tr>
